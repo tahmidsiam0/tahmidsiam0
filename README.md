@@ -26,7 +26,7 @@ I am a Full-Stack Developer focused on building performant web applications usin
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidsiam0&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidsiam0&layout=compact&theme=transparent)
 
 ---
