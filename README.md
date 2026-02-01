@@ -5,7 +5,7 @@ I am a Full-Stack Developer focused on building performant web applications usin
 - 🔭 I’m currently working on bridging api's on an Election apps...
 - 🌱 I’m currently learning **Advanced System Design**
 - 💬 Ask me about **React, Next.js, or FastAPI**
-- 📫 How to reach me: **tahmid.frontdev@gmail.com**/**https://www.linkedin.com/in/tahmidhossen/**
+- 📫 How to reach me: **tahmidsiam0@gmail.com**/**https://www.linkedin.com/in/tahmidhossen/**
 
 ---
 
